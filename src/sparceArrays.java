@@ -11,7 +11,7 @@ public class sparceArrays {
 
 	
 	/* 
-	   Findings of code (part 8):
+	  Creates sparse and dense arrays. Some comments:
 	   Finding the max of the sparse array tends to be much faster than finding the max 
 	   of the dense array generally in tests
 	   The converting methods also tend to be faster than the creating ones. 
